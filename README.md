@@ -3,7 +3,7 @@
 ## Dependencies
 
 There are a couple of NuGet dependencies in the individual project files and all of the "packages.config" NuGet configuration files are included in the package, so for the first
-time the solution files are opened it should be automatically download these dependencies. These dependencies are mainly the following list;
+time the solution file is opened, dependencies should be automatically downloaded. These dependencies are like in the following list;
 
 - Microsoft.Unity
 - NUnit Unit Testing Framework
